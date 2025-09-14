@@ -40,6 +40,6 @@ Namun jika data ada tercreate atau data nya kosong maka akan menampilkan output 
 
 <h2>Pilihan Kedua</h2>
 <p>Masuk ke pilihan kedua yang merupakan untuk mengcreate data peminjol dengan menginputkan no hp, nama, jumlah pinjaman, dan tenor. Bunga ditentukan melalui tenor dan jumlah pinjaman yang dimana, jika tenor nya 1 tahun maka akan mendapat bunga 5% jadi: jumlah * 5 / 100, kalau tenor nya lebih dari 1 tahun dan kurang dari 5 tahun maka akan mendapat bunga 10% jadi: jumlah * 10 / 100, lalu jika tenor nya sama dengan atau lebih dari 5 tahun maka akan mendapatkan bunga 20% jadinya: jumlah * 20 / 100. Lalu terdapat total yang akan diproses dengan total = jumlah + bunga, total merupakan tagihan yang perlu dibayarkan oleh peminjol. Dan ada status yang jika setiap data di create maka akan memiliki status = menunggu.</p>
-
+<img width="1600" height="652" alt="image" src="https://github.com/user-attachments/assets/8dc3563d-dfdf-444e-b041-ab6257f83bde" />
 
 
