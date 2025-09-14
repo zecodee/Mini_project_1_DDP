@@ -1,4 +1,4 @@
-# minpro-pinjol
+# Mini Project 1: Sistem Peminjaman Online
 Mini Project Python dari Mata Kuliah Dasar-Dasar Pemrograman (DDP)
 
 NAMA: Zefri Al Rizqullah
@@ -50,10 +50,20 @@ Namun jika data ada tercreate atau data nya kosong maka akan menampilkan output 
 Masih belum saya kerjakan, jadi hanya menampilkan pesan "Coming Soon".
 <img width="1589" height="256" alt="image" src="https://github.com/user-attachments/assets/2aacf35e-d611-4cea-afa5-ad77300e44d9" />
 
-
 <br>
 <br>
 <br>
 
 <h2>Pilihan Keempat</h2>
+Pada pilihan keempat merupakan program yang menghapus data peminjol sesuai dengan no hp yang diinputkan. Akan menampilkan semua data peminjol lalu user diminta untuk menginputkan salah satu no hp yang ingin dihapus, kalau terdapat kesalahan nomor yang diinputkan atau tidak sesuai maka akan menampilkan pesan "Nomor yang Anda masukkan tidak terdaftar!". Dan jika tidak ada data peminjol maka akan menampilkan output pesan "Belum ada orang yang pinjol".
+<img width="1591" height="275" alt="image" src="https://github.com/user-attachments/assets/a0716c7a-b128-4fb5-9152-13c78df60d4c" />
+<img width="1569" height="318" alt="image" src="https://github.com/user-attachments/assets/df97a3f4-6dc0-41f6-8f4f-a60f89ca21f1" />
+
+<br>
+<br>
+<br>
+
+<h2>Pilihan Kelima</h2>
+Merupakan akhir dari program jika menginputkan 5, pilihan ini adalah satu satu nya untuk keluar dari program tersebut.
+<img width="1573" height="266" alt="image" src="https://github.com/user-attachments/assets/4e2ab321-e7a0-4cec-8c04-33193c0ea1e4" />
 
