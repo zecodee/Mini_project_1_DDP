@@ -15,49 +15,47 @@ SISTEM INFORMASI KELAS C 2025
 <br>
 <br>
 
-<h2>Output Menu</h2>
-<img width="1538" height="309" alt="image" src="https://github.com/user-attachments/assets/50ad3581-ebec-42da-8506-31f52ba2e868" />
-<p>Program pinjol ini jika dijalankan maka yang pertama akan keluar adalah Menu yang terdiri dari 5 pilihan.
-Pilihan tersebut ada:
-</p>
-<p>1. Lihat Daftar Orang yang Pinjol, berisi data data daftar orang yang melakukan peminjaman online.</p>
-<p>2. Create Peminjaman, merupakan halaman untuk mengcreate data baru orang yang melakukan peminjaman online.</p>
-<p>3. Update Status Peminjaman, seharusnya ini halaman untuk mengupdate status peminjaman online dari menunggu menjadi: "disetujui"/"ditolak"/"lunas", namun saya belum mampu untuk menyelesaikan yang update ini.</p>
-<p>4. Delete Pinjaman, untuk menghapus data pinjaman sesuai no hp yang diinputkan.</p>
-<p>5. Exit, merupakan akhir dari program jika memilih pilihan ini.</p>
-<p>Lalu diberikan sebuah inputan untuk memilih pilihan mana yang diinginkan dari 1-5, jika menginputkan selain 1-5, maka akan mengeluarkan output: "Inputan yang Anda masukan tidak valid ❌, coba lagi ya🙏"</p>
-<img width="1528" height="501" alt="image" src="https://github.com/user-attachments/assets/73b71f5e-f8e9-4a1d-adf2-9ee0c99ba64d" />
+<h2>Output Menu Role = user</h2>
+<img width="1226" height="313" alt="image" src="https://github.com/user-attachments/assets/af1e7efe-4fa8-465e-8fb7-74c86a8eb71e" />
+jalankan program dan masukan username: olaa, password: 123 atau username: zefry, password: 123, maka akan masuk ke menu user
+yang tersedia ada 4 pilihan menu. Menu pilihan pertama untuk melihat semua pinjaman dari user yang login ini, pilihan kedua
+untuk membuat sebuah pinjaman, pilihan ketiga keluar dari menu dan kembali ke logi, dan menu pilihan terakhir itu untuk keluar dari program.
 
 <br>
 <br>
 <br>
 
-<h2>Pilihan Pertama</h2>
-<p>Jika masuk ke pilihan pertama, maka akan menampilkan sebuah data data peminjol yang sudah dicreate, yang berisikan no hp, nama, jumlah pinjaman, tenor, bunga, totalnya, dan status.
-Namun jika data ada tercreate atau data nya kosong maka akan menampilkan output dengan pesan "Belum ada orang yang pinjol"</p>
-<img width="774" height="366" alt="image" src="https://github.com/user-attachments/assets/28c47629-a49a-488c-b712-961447a48cd7" />
-<img width="1219" height="364" alt="image" src="https://github.com/user-attachments/assets/d35853c7-cc60-49f3-bc0e-312e7bed07d5" />
-
-<h2>Pilihan Kedua</h2>
-<p>Masuk ke pilihan kedua yang merupakan untuk mengcreate data peminjol dengan menginputkan no hp, nama, jumlah pinjaman, dan tenor. Bunga ditentukan melalui tenor dan jumlah pinjaman yang dimana, jika tenor nya 1 tahun maka akan mendapat bunga 5% jadi: jumlah * 5 / 100, kalau tenor nya lebih dari 1 tahun dan kurang dari 5 tahun maka akan mendapat bunga 10% jadi: jumlah * 10 / 100, lalu jika tenor nya sama dengan atau lebih dari 5 tahun maka akan mendapatkan bunga 20% jadinya: jumlah * 20 / 100. Lalu terdapat total yang akan diproses dengan total = jumlah + bunga, total merupakan tagihan yang perlu dibayarkan oleh peminjol. Dan ada status yang jika setiap data di create maka akan memiliki status = menunggu.</p>
-<img width="1600" height="652" alt="image" src="https://github.com/user-attachments/assets/8dc3563d-dfdf-444e-b041-ab6257f83bde" />
+<h2>Pilihan Pertama, Menu User</h2>
+<img width="1221" height="274" alt="image" src="https://github.com/user-attachments/assets/e9d4042c-b054-4569-85b0-db5f9b328b61" />
+<img width="1248" height="257" alt="image" src="https://github.com/user-attachments/assets/99f755dd-04b1-4039-a7b1-ca99b01348e6" />
+Masuk ke pilihan pertama merupakan untuk menampilkan data data pinjaman dari user yang sedang login tersebut, dan jika tidak memiliki
+pinjaman maka akan menampilkan pesan "Belum ada orang yang pinjol".
 
 <br>
 <br>
 <br>
 
-<h2>Pilihan Ketiga</h2>
-Masih belum saya kerjakan, jadi hanya menampilkan pesan "Coming Soon".
-<img width="1589" height="256" alt="image" src="https://github.com/user-attachments/assets/2aacf35e-d611-4cea-afa5-ad77300e44d9" />
+<h2>Pilihan Kedua, Menu User</h2>
+<img width="1199" height="414" alt="image" src="https://github.com/user-attachments/assets/9e55b29d-a441-484f-b3e3-764c3e9b8437" />
+Pada pilihan kedua merupakan untuk menambahkan data pinjaman dengan menginputkan: nomor hp, nama, jumlah yang ingin dipinjam, dan tenor,
+lalu akan otomatis mendapatkan bunga yang sesuai dengan tenornya, dan status akan menjadi "menunggu".
 
 <br>
 <br>
 <br>
 
-<h2>Pilihan Keempat</h2>
-Pada pilihan keempat merupakan program yang menghapus data peminjol sesuai dengan no hp yang diinputkan. Akan menampilkan semua data peminjol lalu user diminta untuk menginputkan salah satu no hp yang ingin dihapus, kalau terdapat kesalahan nomor yang diinputkan atau tidak sesuai maka akan menampilkan pesan "Nomor yang Anda masukkan tidak terdaftar!". Dan jika tidak ada data peminjol maka akan menampilkan output pesan "Belum ada orang yang pinjol".
-<img width="1591" height="275" alt="image" src="https://github.com/user-attachments/assets/a0716c7a-b128-4fb5-9152-13c78df60d4c" />
-<img width="1569" height="318" alt="image" src="https://github.com/user-attachments/assets/df97a3f4-6dc0-41f6-8f4f-a60f89ca21f1" />
+<h2>Pilihan Ketiga, Menu User</h2>
+<img width="1251" height="273" alt="image" src="https://github.com/user-attachments/assets/9a4f015a-b40b-4f78-bc2f-24b3cd729fde" />
+Pilihan ketiga merupakan menu logout yang akan kembali ke login.
+
+<br>
+<br>
+<br>
+
+<h2>Pilihan Keempat, Menu User</h2>
+<img width="1248" height="237" alt="image" src="https://github.com/user-attachments/assets/df970af1-23f8-43c7-a102-55dde31aabf2" />
+
+Terakhir pilihan keempat merupakan exit dari program ini.
 
 <br>
 <br>
