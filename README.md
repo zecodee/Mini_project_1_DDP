@@ -9,7 +9,7 @@ SISTEM INFORMASI KELAS C 2025
 <br>
 <br>
 <h2> Flowchart minpro-pinjol:</h2>
-<img width="1048" height="1380" alt="Flowchart Pinjol drawio" src="https://github.com/user-attachments/assets/4be8c2c3-cec5-4883-bd6c-620aa3352f74" />
+<img width="1438" height="2216" alt="Flowchart Pinjol (Minpro part 2) drawio" src="https://github.com/user-attachments/assets/fddba3b7-3f47-413a-8947-bd484360c6a0" />
 
 <br>
 <br>
