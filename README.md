@@ -1,4 +1,4 @@
-<img width="1244" height="265" alt="image" src="https://github.com/user-attachments/assets/7af3e575-9485-4799-b211-1221d591db71" /># Mini Project 1: Sistem Peminjaman Online
+# Mini Project 1: Sistem Peminjaman Online
 Mini Project Python dari Mata Kuliah Dasar-Dasar Pemrograman (DDP)
 
 NAMA: Zefri Al Rizqullah
@@ -106,4 +106,3 @@ Pilihan keempat merupakan menu logout yang akan kembali ke login.
 <h2>Pilihan Kelima, Menu Admin</h2>
 <img width="1244" height="265" alt="image" src="https://github.com/user-attachments/assets/30d53564-092a-4172-a4d5-a956a67e36cf" />
 Terakhir pilihan kelima merupakan exit dari program ini.
-
