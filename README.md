@@ -1,4 +1,4 @@
-# Mini Project 1: Sistem Peminjaman Online
+<img width="1244" height="265" alt="image" src="https://github.com/user-attachments/assets/7af3e575-9485-4799-b211-1221d591db71" /># Mini Project 1: Sistem Peminjaman Online
 Mini Project Python dari Mata Kuliah Dasar-Dasar Pemrograman (DDP)
 
 NAMA: Zefri Al Rizqullah
@@ -66,3 +66,44 @@ Jika anda login menggunakan admin dengan username: admin, password: 123, maka ak
 yaitu menu pilihan pertama merupakan melihat keseluruhan data pinjaman, lalu pilihan kedua untuk mengupdate status dari pinjaman yang
 sesuai dengan nomor hp yang dipilih, pilihan ketiga untuk menghapus data sesuai dengan nomor hp yang dimasukkan, pilihan keempat merupakan
 logout dari menu nya dan kembali ke login, dan terakhir pilihan 5 untuk keluar dari program ini.
+
+<h2>Pilihan Pertama, Menu Admin</h2>
+<img width="1205" height="324" alt="image" src="https://github.com/user-attachments/assets/36b08c1f-405b-4f6d-ad29-04d6399509a4" />
+<img width="1293" height="353" alt="image" src="https://github.com/user-attachments/assets/c4f378b2-79e9-4380-b4ec-a91928d47d7e" />
+
+Pilihan pertama merupakan tampilan keseluruhan data peminjam dan jika tidak ada datanya maka akan menampilkan pesan "Belum ada orang yang pinjol".
+
+<br>
+<br>
+<br>
+
+<h2>Pilihan Kedua, Menu Admin</h2>
+<img width="1299" height="721" alt="image" src="https://github.com/user-attachments/assets/3b102cb9-6387-4902-85d7-8919ae0f455e" />
+Pilihan kedua merupakan untuk mengupdate status peminjam dari menunggu, bisa diubah menjadi ditolak/diterima/lunas/telat, yang sesuai 
+dengan nomor hp yang diinputkan, dan jika tidak ada datanya maka akan menampilkan pesan "Belum ada orang yang pinjol".
+
+<br>
+<br>
+<br>
+
+<h2>Pilihan Ketiga, Menu Admin</h2>
+<img width="1271" height="467" alt="image" src="https://github.com/user-attachments/assets/dea36fcc-d5a9-412c-9c47-ca10b57d7bac" />
+Pilihan ketiga merupakan untuk menghapus data peminjam sesuai dengan nomor yang diinputkan, dan jika tidak ada datanya 
+maka akan menampilkan pesan "Belum ada orang yang pinjol".
+
+<br>
+<br>
+<br>
+
+<h2>Pilihan Keempat, Menu Admin</h2>
+<img width="1248" height="369" alt="image" src="https://github.com/user-attachments/assets/5fd94525-e93e-4ba4-8e7f-975a7870b3bb" />
+Pilihan keempat merupakan menu logout yang akan kembali ke login.
+
+<br>
+<br>
+<br>
+
+<h2>Pilihan Kelima, Menu Admin</h2>
+<img width="1244" height="265" alt="image" src="https://github.com/user-attachments/assets/30d53564-092a-4172-a4d5-a956a67e36cf" />
+Terakhir pilihan kelima merupakan exit dari program ini.
+
