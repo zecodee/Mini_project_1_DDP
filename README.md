@@ -17,7 +17,7 @@ SISTEM INFORMASI KELAS C 2025
 
 <h2>Output Menu Role = user</h2>
 <img width="1226" height="313" alt="image" src="https://github.com/user-attachments/assets/af1e7efe-4fa8-465e-8fb7-74c86a8eb71e" />
-jalankan program dan masukan username: olaa, password: 123 atau username: zefry, password: 123, maka akan masuk ke menu user
+Jalankan program dan masukan username: olaa, password: 123 atau username: zefry, password: 123, maka akan masuk ke menu user
 yang tersedia ada 4 pilihan menu. Menu pilihan pertama untuk melihat semua pinjaman dari user yang login ini, pilihan kedua
 untuk membuat sebuah pinjaman, pilihan ketiga keluar dari menu dan kembali ke logi, dan menu pilihan terakhir itu untuk keluar dari program.
 
@@ -54,14 +54,15 @@ Pilihan ketiga merupakan menu logout yang akan kembali ke login.
 
 <h2>Pilihan Keempat, Menu User</h2>
 <img width="1248" height="237" alt="image" src="https://github.com/user-attachments/assets/df970af1-23f8-43c7-a102-55dde31aabf2" />
-
 Terakhir pilihan keempat merupakan exit dari program ini.
 
 <br>
 <br>
 <br>
 
-<h2>Pilihan Kelima</h2>
-Merupakan akhir dari program jika menginputkan 5, pilihan ini adalah satu satu nya untuk keluar dari program tersebut.
-<img width="1573" height="266" alt="image" src="https://github.com/user-attachments/assets/4e2ab321-e7a0-4cec-8c04-33193c0ea1e4" />
-
+<h2>Output Menu Role = admin</h2>
+<img width="1186" height="340" alt="image" src="https://github.com/user-attachments/assets/16902d33-e333-443f-923d-c126f48ef31a" />
+Jika anda login menggunakan admin dengan username: admin, password: 123, maka akan masuk ke menu admin yang tersedia 5 pilihan menu,
+yaitu menu pilihan pertama merupakan melihat keseluruhan data pinjaman, lalu pilihan kedua untuk mengupdate status dari pinjaman yang
+sesuai dengan nomor hp yang dipilih, pilihan ketiga untuk menghapus data sesuai dengan nomor hp yang dimasukkan, pilihan keempat merupakan
+logout dari menu nya dan kembali ke login, dan terakhir pilihan 5 untuk keluar dari program ini.
